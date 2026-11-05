@@ -13,5 +13,6 @@ Il lunedì mattina, prima della riunione del team.
 2. Raggruppa per progetto: cosa è successo, cosa è deciso, cosa resta aperto.
 
 ## Regole
-- Massimo una pagina.
+- Massimo una pagina, con un titolo per ogni progetto.
+- In cima le decisioni da prendere, poi il resto.
 - Niente nomi di clienti.
