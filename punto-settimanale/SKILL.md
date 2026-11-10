@@ -16,3 +16,4 @@ Il lunedì mattina, prima della riunione del team.
 - Massimo una pagina, con un titolo per ogni progetto.
 - In cima le decisioni da prendere, poi il resto.
 - Niente nomi di clienti.
+- Chiudi con le scadenze della settimana dopo: cosa, entro quando, chi.
