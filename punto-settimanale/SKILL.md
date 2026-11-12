@@ -16,4 +16,4 @@ Il lunedì mattina, prima della riunione del team.
 - Massimo una pagina, con un titolo per ogni progetto.
 - In cima le decisioni da prendere, poi il resto.
 - Niente nomi di clienti.
-- Per ogni progetto, una riga sullo stato: in linea, in ritardo o bloccato.
+- Per ogni progetto, una riga sullo stato: in linea, in ritardo o bloccato. Se questa informazione non è esplicita allora segna [STATO PROGETTO NON DEFINITO]
